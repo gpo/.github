@@ -2,6 +2,8 @@
 
 The Green Party of Ontario (GPO) is a provincial political party committed to building a greener, fairer, and healthier Ontario. We believe in evidence-based policy, community-driven organizing, and open, transparent government.
 
+Those same values shape how we build technology. Our tech work is rooted in openness — we develop open-source tools, share knowledge with Green parties across Canada and beyond, and rely on grassroots volunteers who bring their skills to the movement. We believe political technology should be transparent, collaborative, and community-owned, not locked behind proprietary walls.
+
 🌐 **Website:** [gpo.ca](https://gpo.ca)
 
 ---
