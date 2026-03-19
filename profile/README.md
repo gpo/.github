@@ -4,7 +4,7 @@ The Green Party of Ontario (GPO) is a provincial political party committed to bu
 
 Those same values shape how we build technology. Our tech work is rooted in openness — we develop open-source tools, share knowledge with Green parties across Canada and beyond, and rely on grassroots volunteers who bring their skills to the movement. We believe political technology should be transparent, collaborative, and community-owned, not locked behind proprietary walls.
 
-🌐 **Website:** [gpo.ca](https://gpo.ca)
+🌐 **Website:** [gpo.ca](https://gpo.ca/?source=github)
 
 ---
 
@@ -25,8 +25,8 @@ Our work is powered by passionate volunteers across multiple areas:
 
 Whether you're a developer, data analyst, designer, writer, or just passionate about Ontario's future — there's a place for you.
 
-- **Volunteer:** [gpo.ca/get-involved](https://gpo.ca/get-involved/)
-- **Join the party:** [secure.gpo.ca](https://secure.gpo.ca/civicrm/contribute/transact?reset=1&id=23)
+- **Volunteer:** [gpo.ca/get-involved](https://gpo.ca/get-involved/?source=github)
+- **Join the party:** [gpo.ca/join](https://gpo.ca/join/?source=github)
 - **Contribute to our projects:** Browse our repos and open a pull request!
 
 ---
@@ -56,6 +56,6 @@ Whether you're a developer, data analyst, designer, writer, or just passionate a
 
 ## Connect With Us
 
-[![Website](https://img.shields.io/badge/Website-gpo.ca-2e7d32?style=flat&logo=google-chrome&logoColor=white)](https://gpo.ca)
+[![Website](https://img.shields.io/badge/Website-gpo.ca-2e7d32?style=flat&logo=google-chrome&logoColor=white)](https://gpo.ca/?source=github)
 [![Facebook](https://img.shields.io/badge/Facebook-GreenPartyOntario-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/GreenPartyOntario)
 [![Instagram](https://img.shields.io/badge/Instagram-@GreenPartyofOntario-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/GreenPartyofOntario)
