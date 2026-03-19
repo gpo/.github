@@ -57,5 +57,5 @@ Whether you're a developer, data analyst, designer, writer, or just passionate a
 ## Connect With Us
 
 [![Website](https://img.shields.io/badge/Website-gpo.ca-2e7d32?style=flat&logo=google-chrome&logoColor=white)](https://gpo.ca)
-[![Facebook](https://img.shields.io/badge/Facebook-OntarioGreens-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/OntarioGreens)
-[![Instagram](https://img.shields.io/badge/Instagram-@ontariogreens-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ontariogreens)
+[![Facebook](https://img.shields.io/badge/Facebook-GreenPartyOntario-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/GreenPartyOntario)
+[![Instagram](https://img.shields.io/badge/Instagram-@GreenPartyofOntario-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/GreenPartyofOntario)
